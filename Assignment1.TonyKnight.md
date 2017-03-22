@@ -31,6 +31,8 @@ A pipeline was developed in python using openCV image processing routines to def
 
 7. The line image was then overlaid on the original image and returned from the pipeline
 
+[link to Jupyter notebook containing pipeline](https://github.com/teeekay/CarND-LaneLines-P1/blob/master/P1.ipynb)
+
 
 ### Potential Shortcomings With the Current Pipeline
 
